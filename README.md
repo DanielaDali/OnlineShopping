@@ -1,5 +1,5 @@
 # OnlineShopping
-Java project - Dynamic Web Application with database connection
+Java project - Dynamic Web Application with database connection.
 This project is using Eclipse, Tomcat, MySQL Database.
 You can find in this project admin page and users page. 
 As an admin you can add new products, receive messages from clients, cancel or deliver orders.
